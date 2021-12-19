@@ -1,0 +1,13 @@
+.app__newsletter .newsletter__header {
+  color: #ff598a;
+}
+
+.app__newsletter .newsletter__email {
+  color: #fff;
+  background: #070222;
+  text-align: center;
+}
+
+.app__newsletter .newsletter__email:focus {
+  outline: 2px solid #5e9fff;
+}
